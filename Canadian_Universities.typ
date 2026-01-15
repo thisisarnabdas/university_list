@@ -12,10 +12,12 @@
   [*Simon Fraser University*], [#link("https://www.sfu.ca/fas/study/future-graduates/programs/master-science-thesis.html")[Master of Science in Computing Science]], [Expired],
   [*University of Calgary*], [#link("https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-msc-thesis")[Electrical and Computer Engineering Master of Science (MSc)]], [April 30],
   [*University of New Brunswick*], [#link("https://www.unb.ca/gradstudies/programs/computer-science.html")[Master of Science (MSc) in Computer Science]], [April 30],
-  [*University of Prince Edward Island*], [#link("https://www.unb.ca/gradstudies/programs/computer-science.html")[Master of Science (MSc) in Computer Science]], [April 30],  
+  [*University of Prince Edward Island*], [#link("https://www.unb.ca/gradstudies/programs/computer-science.html")[Master of Science (MSc) in Computer Science]], [April 30],
   [*Algoma University*], [#link("https://algomau.ca/academics/graduate-programs/master-of-science-in-cs/")[Master of Science (MSc) in Computer Science]], [February 2],
   [*Brock University*], [#link("https://brocku.ca/programs/graduate/msc-cosc/")[Master of Science (MSc) in Computer Science]], [January 15],
   [*Carleton University*], [#link("https://graduate.carleton.ca/program/computer-science-masters-programs/")[Master of Science (MSc) in Computer Science]], [January 15],
   [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science/")[Master of Science (MSc) in Computer Science]], [Couldn't find],
   [*University of Guelph*], [#link("https://www.uoguelph.ca/programs/msc-computer-science/")[Master of Science (MSc) in Computer Science]], [March 1],
+  [*University of Manitoba*], [#link("https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-msc")[Master of Science (MSc) in Computer Science]], [March 1],
+
 )

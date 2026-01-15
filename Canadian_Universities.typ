@@ -18,6 +18,6 @@
   [*Carleton University*], [#link("https://graduate.carleton.ca/program/computer-science-masters-programs/")[Master of Science (MSc) in Computer Science]], [January 15],
   [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science/")[Master of Science (MSc) in Computer Science]], [Couldn't find],
   [*University of Guelph*], [#link("https://www.uoguelph.ca/programs/msc-computer-science/")[Master of Science (MSc) in Computer Science]], [March 1],
-  [*University of Manitoba*], [#link("https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-msc")[Master of Science (MSc) in Computer Science]], [March 1],
+  [*University of Manitoba*], [#link("https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-msc")[Master of Science (MSc) in Computer Science]], [Winter intake: March 1],
 
 )

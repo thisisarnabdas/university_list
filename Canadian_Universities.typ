@@ -39,10 +39,6 @@
 
 
 
-  [*Algoma University*], [#link("https://algomau.ca/academics/graduate-programs/master-of-science-in-cs/")[Master of Science (MSc) in Computer Science]], [February 2],
-
-
-
   [*Brock University*], [#link("https://brocku.ca/programs/graduate/msc-cosc/")[Master of Science (MSc) in Computer Science]], [January 15],
 
 
@@ -55,7 +51,7 @@
 
 
 
-  [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/electrical-and-computer/")[Master of Science in Engineering in Electrical and Computer Engineering (MSc Eng)]], [Application open for fall 26],
+  [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/electrical-and-computer/")[Master of Science in Engineering in Electrical and Computer Engineering (MSc Eng)]], [Fall: February 1],
 
 
 
@@ -72,4 +68,12 @@
 
 
   [*University of Manitoba*], [#link("https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-msc")[Master of Science (MSc) in Electrical and Computer Engineering]], [Winter: March 15\ Summer: August 1],
+
+
+
+  [*Algoma University*], [#link("https://algomau.ca/academics/graduate-programs/master-of-science-in-cs/")[Master of Science (MSc) in Computer Science]], [Fall: February 2],
+
+
+
+  [*Acadia University*], [#link("https://www2.acadiau.ca/academics/graduate/computer-science.html")[Master of Science (MSc) in Computer Science]], [Fall: February 1(Scholarship) \ April 1(Normal)],
 )

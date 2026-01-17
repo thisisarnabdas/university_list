@@ -43,7 +43,7 @@
 
 
 
-  [*Carleton University*], [#link("https://graduate.carleton.ca/program/computer-science-masters-programs/")[Master of Science (MSc) in Computer Science]], [January 15],
+  [*Carleton University*], [#link("https://graduate.carleton.ca/program/computer-science-masters-programs/")[Master of Science (MSc) in Computer Science]], [Fall: January 15],
 
 
 

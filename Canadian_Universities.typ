@@ -7,7 +7,12 @@
   [*Name*], [*Program*], [*Deadline*],
 
 
-  [*Concordia University*], [#link("https://www.concordia.ca/academics/graduate/information-systems-masc.html")[Information Systems Security (MASc)]], [March 1],
+
+  [*Concordia University*], [#link("https://www.concordia.ca/academics/graduate/information-systems-masc.html")[Information Systems Security (MASc)]], [Fall: March 1 \ Winter: July 1 \ Summer: November 1],
+
+
+
+  [*Concordia University*], [#link("https://www.concordia.ca/academics/graduate/computer-science-mcompsc.html")[Master of Computer Science (MCompSc)]], [Fall: March 1 \ Winter: July 1 \ Summer: November 1],
 
 
 
@@ -43,7 +48,15 @@
 
 
 
+  [*Carleton University*], [#link("https://graduate.carleton.ca/program/data-science-analytics-and-artificial-intelligence-masters-programs/")[Master of Science (MSc) in Computer Science (DSAAI)]], [Fall: February 1],
+
+
+
   [*Carleton University*], [#link("https://graduate.carleton.ca/program/computer-science-masters-programs/")[Master of Science (MSc) in Computer Science]], [Fall: January 15],
+  
+
+
+  [*Carleton University*], [#link("https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-applied-science-in-networking/")[Master of Applied Science in Networking]], [Winter: August 1 (Early Consideration)],
 
 
 
@@ -76,4 +89,8 @@
 
 
   [*Acadia University*], [#link("https://www2.acadiau.ca/academics/graduate/computer-science.html")[Master of Science (MSc) in Computer Science]], [Fall: February 1(Scholarship) \ April 1(Normal)],
+
+
+
+  [*University of Alberta*], [#link("https://www.ualberta.ca/en/graduate-programs/master-of-science-computing-science.html")[Master of Science (Computing Science)]], [Fall: February 1(Scholarship) \ April 1(Normal)],  
 )

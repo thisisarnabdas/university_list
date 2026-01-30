@@ -16,10 +16,6 @@
 
 
 
-  [*Dalhousie University*], [#link("https://www.dal.ca/study/programs/graduate-professional/digital-innovation-mdi.html")[Digital Innovation (MDI)]], [April 1],
-
-
-
   [*HEC Montréal*], [#link("https://www.hec.ca/en/programs/masters/master-data-science-and-business-analytics")[Master of Science (MSc) – Data Science and Business Analytics]], [March 1],
 
 

@@ -16,59 +16,15 @@
 
 
 
-  [*HEC Montréal*], [#link("https://www.hec.ca/en/programs/masters/master-data-science-and-business-analytics")[Master of Science (MSc) – Data Science and Business Analytics]], [March 1],
-
-
-
-  [*Trent University*], [#link("https://www.trentu.ca/graduatestudies/program/applied-modelling-quantitative-methods-ma-or-msc/big-data-analytics-msc")[Applied Modelling & Quantitative Methods M.A. or M.Sc.]], [Winter intake: June 1st],
-
-
-
-  [*Simon Fraser University*], [#link("https://www.sfu.ca/fas/study/future-graduates/programs/master-science-thesis.html")[Master of Science in Computing Science]], [Expired],
-
-
-
-  [*University of Calgary*], [#link("https://grad.ucalgary.ca/future-students/explore-programs/electrical-and-computer-engineering-msc-thesis")[Electrical and Computer Engineering Master of Science (MSc)]], [April 30],
-
-
-
-  [*University of New Brunswick*], [#link("https://www.unb.ca/gradstudies/programs/computer-science.html")[Master of Science (MSc) in Computer Science]], [April 30],
-
-
-
-  [*University of Prince Edward Island*], [#link("https://www.unb.ca/gradstudies/programs/computer-science.html")[Master of Science (MSc) in Computer Science]], [April 30],
-
-
-
-  [*Brock University*], [#link("https://brocku.ca/programs/graduate/msc-cosc/")[Master of Science (MSc) in Computer Science]], [January 15],
-
-
-
-  [*Carleton University*], [#link("https://graduate.carleton.ca/program/data-science-analytics-and-artificial-intelligence-masters-programs/")[Master of Science (MSc) in Computer Science (DSAAI)]], [Fall: February 1],
-
-
-
-  [*Carleton University*], [#link("https://graduate.carleton.ca/program/computer-science-masters-programs/")[Master of Science (MSc) in Computer Science]], [Fall: January 15],
+  [*Trent University*], [#link("https://www.trentu.ca/graduatestudies/program/applied-modelling-quantitative-methods-ma-or-msc/big-data-analytics-msc")[Applied Modelling & Quantitative Methods M.A. or M.Sc.]], [Winter: June 1st],
   
 
 
-  [*Carleton University*], [#link("https://carleton.ca/csit/graduate-studies/programs-and-admissions/master-of-applied-science-in-networking/")[Master of Applied Science in Networking]], [Winter: August 1 (Early Consideration)],
-
-
-
-  [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science/")[Master of Science (MSc) in Computer Science]], [#link("https://lakeheadfgsapp.smapply.io/prog/master_of_science_in_computer_science_msc/")[Application open for fall 26]],
+  [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science/")[Master of Science (MSc) in Computer Science]], [#link("https://lakeheadfgsapp.smapply.io/prog/master_of_science_in_computer_science_msc/")[Fall: April 30]],
 
 
 
   [*Lakehead University*], [#link("https://www.lakeheadu.ca/programs/graduate/programs/masters/electrical-and-computer/")[Master of Science in Engineering in Electrical and Computer Engineering (MSc Eng)]], [Fall: February 1],
-
-
-
-  [*University of Guelph*], [#link("https://www.uoguelph.ca/programs/msc-bioinformatics/")[Master of Science (MSc) in Bioinformatics]], [No fixed deadline \ but apply at least 6-8 months prior to start],
-
-
-
-  [*University of Guelph*], [#link("https://www.uoguelph.ca/programs/msc-bioinformatics/")[Master of Science (MSc) in Computer Science]], [Fall: March 1 \ Winter: August 1 \ Spring: November 1],
 
 
 
@@ -80,13 +36,9 @@
 
 
 
-  [*Algoma University*], [#link("https://algomau.ca/academics/graduate-programs/master-of-science-in-cs/")[Master of Science (MSc) in Computer Science]], [Fall: February 2],
+  [*Algoma University*], [#link("https://algomau.ca/academics/graduate-programs/master-of-science-in-cs/")[Master of Science (MSc) in Computer Science]], [],
 
 
 
-  [*Acadia University*], [#link("https://www2.acadiau.ca/academics/graduate/computer-science.html")[Master of Science (MSc) in Computer Science]], [Fall: February 1(Scholarship) \ April 1(Normal)],
-
-
-
-  [*University of Alberta*], [#link("https://www.ualberta.ca/en/graduate-programs/master-of-science-computing-science.html")[Master of Science (Computing Science)]], [Fall: February 1(Scholarship) \ April 1(Normal)],  
+  [*University of New Brunswick*], [#link("https://www.unb.ca/gradstudies/programs/computer-science.html")[Master of Science (MSc) in Computer Science]], [Winter: April 30],
 )
